@@ -8,4 +8,5 @@ Thông tin kết nối (tự tạo bởi Kandagawa Bot — tunnel bore.pub):
 
 ## Ket noi RDP
 
-- **RDP #1**: `bore.pub:28030` - User: `Kandagawa` / Pass: `Kandagw@12345`
+- **RDP #1**: `bore.pub:23767` - User: `Kandagawa` / Pass: `Kandagw@12345`
+
